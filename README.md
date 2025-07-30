@@ -5,4 +5,5 @@
 使用方法：
 ```CSS
 @import url('https://cdn.jsdelivr.net/gh/WinterholdPrime/webfont_LXGWClearGothic@main/LXGWClearGothic_Book.css');
+@import url('https://cdn.jsdelivr.net/gh/WinterholdPrime/webfont_LXGWClearGothic@main/LXGWNeoZhiSongScreen.css');
 ```
